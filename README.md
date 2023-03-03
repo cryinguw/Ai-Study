@@ -1,1 +1,3 @@
-# pythonProject
+# AI-Study
+
+모두의 연구소 Aiffel에서 배운 내용들을 나만의 것으로 만들기 위해 복습하고 정리하여 올려놓는다.
