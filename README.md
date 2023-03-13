@@ -34,7 +34,18 @@ Pandas, Matplotlib과 Seaborn을 이용
 전처리가 잘 되어 있는 경우 데이터 분석의 질이 높아지고 예측 모델의 성능을 높일 수 있다.
 
 1. 결측치
+
+
 2. 중복된 데이터
+
+
 3. 이상치
+
+
 4. 정규화
+
+      * Standard Scaling
+      * Min-Max Scaling
+
+
 5. 원-핫 인코딩
