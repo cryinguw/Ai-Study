@@ -4,6 +4,23 @@
 
 시간, 온도, 습도, 계절 등의 정보가 담긴 데이터를 통해 자전거의 대여량을 예측
 
+목차
+
+[1. 데이터 가져오기](#데이터-가져오기)
+
+[2. 문자형을 datetime으로 변환](#문자형을-datetime으로-변환)
+
+[3. datetime 데이터 시각화](#datetime-데이터-시각화)
+
+[4. X, y 컬럼 선택 및 데이터 분리](#x-y-컬럼-선택-및-데이터-분리)
+
+[5. LinearRegression 모델 학습](#linearregression-모델-학습)
+
+[6. 손실함수 값 계산](#손실함수-값-계산)
+
+[7. 데이터 시각화](#데이터-시각화)
+
+
 칼럼 설명
 
     * datetime: 날짜
@@ -40,20 +57,7 @@ train.tail()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
