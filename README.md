@@ -49,3 +49,8 @@ Pandas, Matplotlib과 Seaborn을 이용
 
 
 5. 원-핫 인코딩
+
+# Exploration
+
+
+# Flipped school
