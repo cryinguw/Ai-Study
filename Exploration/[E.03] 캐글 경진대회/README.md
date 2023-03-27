@@ -1492,6 +1492,8 @@ save_submission(model, train, y, test, 'lgbm', rmsle='0.168286')
 
 ## 결론
 
+![asd](https://user-images.githubusercontent.com/118944645/227878373-6bfc1aab-e230-4548-8795-e3a5a1659860.png)
+
 캐글에 csv를 제출했더니 Public Score가 102934.50699점이 도출했다.
 
 수많은 시도를 했지만 점수 변화가 크게 없거나 오히려 상승하는 일도 있어서 굉장히 머리가 아팠다.
