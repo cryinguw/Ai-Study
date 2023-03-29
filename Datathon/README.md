@@ -24,7 +24,7 @@ warnings.filterwarnings('ignore')
 ```python
 df = pd.read_csv('high_diamond_ranked_10min.csv')
 
-# KDA 추가하기 KDA = (kill + assist) / death
+# KDA 추가하기 KDA = (kills + assists) / deaths
 
 df['blueKDA'] = (df['blueKills'] + df['blueAssists'])/ df['blueDeaths']
 df['redKDA'] = (df['redKills'] + df['redAssists'])/ df['redDeaths']
