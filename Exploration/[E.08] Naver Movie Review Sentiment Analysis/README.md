@@ -28,20 +28,7 @@ train_data.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1145,11 +1132,11 @@ print(results)
 
 ## 회고
 
-RNN 모델 : 0.8449
+RNN 모델 : 0.8401
     
-1-D Convolution Neural Network(1-D CNN)모델 : 0.8165
+1-D Convolution Neural Network(1-D CNN)모델 : 0.8171
     
-GlobalMaxPooling1D() : 0.8322
+GlobalMaxPooling1D() : 0.8257
     
 3가지 모델 중 가장 성능이 좋은 모델은 RNN모델이었다. 거의 85%에 가까운 정확도를 보여주었다.
 
