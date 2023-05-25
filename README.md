@@ -4,53 +4,37 @@
 
 
 
-[데이터 시각화](#데이터시각화)
+[Exploration](#exploration)
 
 
-[데이터 전처리 기법](#데이터전처리기법)
+[Going Deeper](#going-deeper)
 ***
-# 데이터 시각화
+## Exploration
 
-Pandas, Matplotlib과 Seaborn을 이용
+다양한 AI 프로젝트를 수행했다.
 
-1. 범주형 데이터
-
-    * Pandas를 이용한 막대그래프
-    * Seaborn을 이용한 막대그래프
-
-
-2. 수치형 데이터
-
-   * 산점도
-   * 히스토그램
-   * 선 그래프
-
-# 데이터 전처리 기법
-
-모델에 데이터를 넣기 전까지의 과정, 즉 데이터 전처리를 해보자.
-
-전처리가 충분히 되어있지 않거나 잘못된 데이터를 사용한 경우 분석 결과의 신뢰도가 떨어지고, 예측 모델의 정확도도 떨어진다.
-
-전처리가 잘 되어 있는 경우 데이터 분석의 질이 높아지고 예측 모델의 성능을 높일 수 있다.
-
-1. 결측치
+| Exploration | Project | Application |
+|---|:---:|---:|
+| 01	| 분류학습	| sklearn, ML Algorithm, Comfusion Matrix |
+| 02	| 선형 회귀 + 손실함수 | sklearn, ML Algorithm, Comfusion Matrix |
+| 03	| 캐글 경진대회 |	Kaggle |
+| 04	| ARIMA | ARIMA, Time Series Data |
+| 05	| CNN | Image Classification, CNN |
+| 06	| NLP | Generation Model, RNN |
+| 07	| CV | Face Detection, Landmark Localization, dlib, opencv |
+| 08	| Naver Movie Review Sentiment Analysis | Recommendation System, Matrix Factorization Model |
+| 09	| Human Segmentation | Semantic Segmentation, DeepLab Model |
+| 10	| Translator seq2seq | Neural Machine Translation, seq2seq |
+| 11	| GAN New Image | DCGAN |
+| 12	| Text Summarization | Summarization, Attention Mechanism |
+| 13	| Recommender System | Session Based Recommendation |
+| 14	| Chatbot | DCGAN, Transformer, Teacher Forcing |
 
 
-2. 중복된 데이터
+## Going Deeper
 
+NLP에 관련된 AI 심화 프로젝트를 수행했다.
 
-3. 이상치
-
-
-4. 정규화
-
-      * Standard Scaling
-      * Min-Max Scaling
-
-
-5. 원-핫 인코딩
-
-# Exploration
-
-
-# Flipped School
+| Going Deeper | Project | Application |
+|---|:---:|---:|
+| 01 | SentencePiece | SentencePiece, LSTM |
