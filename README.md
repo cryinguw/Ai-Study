@@ -29,7 +29,7 @@
 | 12	| [Text Summarization](https://github.com/cryinguw/Study_AI/tree/master/Exploration/%5BE.12%5D%20Text%20Summarization) | Summarization, Attention Mechanism |
 | 13	| [Recommender System](https://github.com/cryinguw/Study_AI/tree/master/Exploration/%5BE.13%5D%20Recommender%20System) | Session Based Recommendation |
 | 14	| [Chatbot](https://github.com/cryinguw/Study_AI/tree/master/Exploration/%5BE.14%5D%20Chatbot) | DCGAN, Transformer, Teacher Forcing |
-
+| 15 | [Segmentation map](https://github.com/cryinguw/Study_AI/tree/master/Exploration/%5BE.15%5D%20Pix2Pix) | Segmentation Map, Pix2Pix, cGAN |
 
 ## Going Deeper
 
