@@ -38,3 +38,4 @@ NLP에 관련된 AI 심화 프로젝트를 수행했다.
 | Going Deeper | Project | Application |
 |---|:---:|---:|
 | 01 | [SentencePiece](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-01%5D%20SentencePiece) | SentencePiece, LSTM |
+| 02 | [TF-IDF Vectorization](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-02%5D%20TF-IDF%20Vectorization) | DTM, TF-IDF |
