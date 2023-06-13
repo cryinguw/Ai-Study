@@ -41,3 +41,4 @@ NLP에 관련된 AI 심화 프로젝트를 수행했다.
 | 02 | [TF-IDF Vectorization](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-02%5D%20TF-IDF%20Vectorization) | DTM, TF-IDF |
 | 03 | [WEAT Score](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-03%5D%20WEAT%20Score) | WEAT score |
 | 04 | [Seq2seq](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-04%5D%20Seq2seq) | Attention, Seq2seq |
+| 05 | [Transformer](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-05%5D%20Transformer) | Transformer |
