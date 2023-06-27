@@ -44,4 +44,4 @@ NLP에 관련된 AI 심화 프로젝트를 수행했다.
 | 05 | [Transformer](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-05%5D%20Transformer) | Transformer |
 | 06 | [Transformer Chatbot](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-06%5D%20Transformer%20Chatbot) | Transformer, Chatbot |
 | 07 | [ BERT](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-07%5D%20BERT) | BERT |
-| 08 | [HuggingFace(https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-08%5D%20HuggingFace) | HuggingFace |
+| 08 | [HuggingFace](https://github.com/cryinguw/Study_AI/tree/master/Going%20Deeper/%5BGN-08%5D%20HuggingFace) | HuggingFace |
